@@ -1,0 +1,32 @@
+section.wrap {
+  padding: 15px 0;
+  text-align: center;
+}
+
+.btn.btn-round {
+  width: 85%;
+  color: #fff !important;
+  background-color: #1e6ca3 !important;
+  border-color: #1e6ca3 !important;
+  cursor: pointer !important;
+}
+
+.btn.btn-round:hover {
+  background-color: #2878b1 !important;
+}
+
+.btn.btn-round:active {
+  background-color: #125381 !important;
+}
+
+.btn.btn-disabled {
+  background-color: #ccc !important;
+  border-color: #ccc !important;
+  color: #777 !important;
+  cursor: not-allowed !important;
+}
+
+.btn.btn-disabled:hover,
+.btn.btn-disabled:active {
+  background-color: #ccc !important;
+}

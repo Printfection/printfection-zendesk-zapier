@@ -1,0 +1,13 @@
+{
+  "app": {
+    "description":  "Printfection Giveaway Links",
+    "name":         "PF Giveaway Links",
+
+    "parameters": {
+      "zapier_hook": {
+        "label": "Zapier Webhook URL",
+        "helpText": "Example: https://zapier.com/hooks/catch/6as12z/"
+      }
+    }
+  }
+}

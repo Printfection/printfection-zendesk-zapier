@@ -1,0 +1,9 @@
+<header>
+  <span class="logo"/>
+  <h3>Printfection</h3>
+</header>
+<section class="wrap">
+  <button class="btn btn-green btn-round js-zapier-hook">Add a Gift URL to this Ticket</button>
+  <button class="btn btn-green btn-disabled btn-round js-zapier-clicked" style="display:none;">Success! Gift Should Appear Shortly</button>
+</section>
+
